@@ -1,0 +1,15 @@
+/home/emil/Downloads/tura/tura.Server/bin/Debug/net6.0/tura.Server
+/home/emil/Downloads/tura/tura.Server/bin/Debug/net6.0/tura.Server.deps.json
+/home/emil/Downloads/tura/tura.Server/bin/Debug/net6.0/tura.Server.runtimeconfig.json
+/home/emil/Downloads/tura/tura.Server/bin/Debug/net6.0/tura.Server.dll
+/home/emil/Downloads/tura/tura.Server/bin/Debug/net6.0/ref/tura.Server.dll
+/home/emil/Downloads/tura/tura.Server/bin/Debug/net6.0/tura.Server.pdb
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.csproj.AssemblyReference.cache
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.AssemblyInfoInputs.cache
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.AssemblyInfo.cs
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.csproj.CoreCompileInputs.cache
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.dll
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/ref/tura.Server.dll
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.pdb
+/home/emil/Downloads/tura/tura.Server/obj/Debug/net6.0/tura.Server.genruntimeconfig.cache
