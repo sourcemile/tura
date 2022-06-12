@@ -1,0 +1,5 @@
+
+* faded dialogue/text messages based on distance from player.
+    in real life, it gets harder to hear someone if they're speaking from far away.
+    but also, we will still remember the hard-to-hear things we heard,
+    so those messages would stay in the chat box.
